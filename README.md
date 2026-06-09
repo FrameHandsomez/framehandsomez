@@ -11,7 +11,7 @@
 
 <br>
 
-> *"พัฒนาระบบที่ใช้งานได้จริง — อย่างมีประสิทธิภาพ ด้วย AI — โปรแกรมเมอร์ Full-Stack สาย Vibe Coding"*
+> *"พัฒนาระบบที่ใช้งานได้จริง — อย่างมีประสิทธิภาพ ด้วย AI — โปรแกรมเมอร์ Full-Stack"*
 >
 > **นายวิธชัย สวัสดี** (Frame) · กรุงเทพมหานคร ประเทศไทย 🇹🇭
 
@@ -44,7 +44,7 @@
 🛠️  พัฒนา NestJS microservices + gRPC + REST APIs
 🌱  ศึกษาและพัฒนาทักษะด้าน Docker · Redis · S3/MinIO · OpenTelemetry
 🧪  การทดสอบระบบ: Jest (Unit) + Playwright (E2E)
-🤖  พัฒนาด้วยเครื่องมือ AI (Windsurf · Claude · Copilot)
+🤖  พัฒนาด้วยเครื่องมือ AI (Windsurf · Claude · Codex)
 </pre>
 
   </td>
