@@ -37,11 +37,11 @@
 
 ### 🚀 Featured Engineering Projects
 
-#### [template-nest](https://github.com/FrameHandsomez/template-nest)
-*Production-ready NestJS Backend Starter Kit*
-- Pre-configured with **Bun** runtime and **SWC** compiler for sub-second build times.
-- Modular architecture with built-in **gRPC Client Modules**, **Redis cache**, and **OpenTelemetry** distributed tracing.
-- Standardized error envelopes, request validation pipes, and automated health check probes.
+#### [FR Flower — Boutique Delivery Platform](https://fr-flower.vercel.app/fr-flower-dashboard)
+*Production E-Commerce & Order Management System*
+- Built with **Next.js**, **React 19**, **Prisma ORM (PostgreSQL)**, **TailwindCSS**, and **Cloudinary**.
+- Engineered real-time catalog filtering (by occasion, tone, and budget) and dynamic order workflow dashboards.
+- Integrated automated media optimization pipelines with Cloudinary CDN and responsive previews.
 
 #### [Research: Sales Forecasting with Deep Learning (LSTM)](https://nccit.net/wp-content/uploads/2025/06/Proceedings-of-NCCIT2025.pdf)
 *Published at NCCIT 2025 (Proceedings p. 331–336)*
