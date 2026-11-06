@@ -43,6 +43,12 @@
 - Engineered real-time catalog filtering (by occasion, tone, and budget) and dynamic order workflow dashboards.
 - Integrated automated media optimization pipelines with Cloudinary CDN and responsive previews.
 
+#### [Devd-Tools — Desktop Developer Workflow Engine](https://github.com/FrameHandsomez/jr-dev)
+*Developer Productivity & System Automation Suite*
+- Lightweight desktop productivity engine built with **Python**, **Win32 API**, and **PyInstaller**.
+- Features global hotkey triggers for multi-project server runners, WSL 2 / Docker container lifecycle management, and quick Git automation.
+- Built with system tray background execution, non-blocking toast notifications, and productivity telemetry.
+
 #### [Research: Sales Forecasting with Deep Learning (LSTM)](https://nccit.net/wp-content/uploads/2025/06/Proceedings-of-NCCIT2025.pdf)
 *Published at NCCIT 2025 (Proceedings p. 331–336)*
 - Researched and developed an LSTM-based deep learning pipeline for sales and inventory forecasting.
