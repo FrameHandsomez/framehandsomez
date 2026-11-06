@@ -63,11 +63,11 @@
 ### 📈 GitHub Contributions & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrameHandsomez&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb" width="100%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58a6ff/FrameHandsomez" alt="FrameHandsomez's Github Contributions" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrameHandsomez&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FrameHandsomez&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
